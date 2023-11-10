@@ -1,4 +1,4 @@
-# Responsive-web-design-
+# Responsive-web-design
 FreeCodeCamp Responsive Web Design Certification, highlighting HTML and CSS skills. Explore projects from a humble tribute page to a personal portfolio, each passing automated test suites. Demonstrates a commitment to responsive and visually appealing web design.
 
 ## Projects
@@ -24,9 +24,4 @@ FreeCodeCamp Responsive Web Design Certification, highlighting HTML and CSS skil
 - **Link:** [Personal Portfolio](https://codepen.io/mrwednesday33/full/dydppeX)
 
 ## Certification
-
-- **Certification Name:** Responsive Web Design
-- **Issued by:** FreeCodeCamp
-- **Completion Date:** [Your Completion Date]
-
 ![Your Certification Photo](responsive-web-design.png)
