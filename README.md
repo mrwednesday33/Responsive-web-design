@@ -29,4 +29,4 @@ FreeCodeCamp Responsive Web Design Certification, highlighting HTML and CSS skil
 - **Issued by:** FreeCodeCamp
 - **Completion Date:** [Your Completion Date]
 
-![Your Certification Photo](link-to-your-photo.jpg)
+![Your Certification Photo](responsive web design.png)
